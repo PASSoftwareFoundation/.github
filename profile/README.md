@@ -1,9 +1,6 @@
 <p align="center">
   <h1 align="center">⚡ Nelmin Development</h1>
-  <p align="center">Community-driven OSS</p>
 </p>
-
----
 
 ### 🌟 **Welcome to Our Open-Source Hub**
 We craft privacy-focused tools for digital communities – transparent, lightweight, and shaped by **your ideas**.  
