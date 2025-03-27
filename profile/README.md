@@ -26,7 +26,7 @@ We craft privacy-focused tools for digital communities – transparent, lightwei
 
 ## 💡 **Why Collaborate With Us?**
 - **🚪 Low Barrier**: Beginner-friendly issues tagged in all repos
-- **📜 GPL-3.0 Freedom**: Build upon our work without restrictions
+- **📜 AGPL-3.0 Freedom**: Build upon our work without restrictions
 - **🌍 Ethical Code**: Tools that respect users and admins alike
 - **🤝 Mutual Growth**: Get featured in release notes for contributions
 
@@ -40,5 +40,5 @@ We craft privacy-focused tools for digital communities – transparent, lightwei
 
 <p align="center">
   <em>"Building open infrastructure for tomorrow's communities"</em><br>
-  <sub>🛡️ GPL-3.0 Licensed <!-- | 🌱 Proudly non-profit --> | 📜 <a href="https://nelmin.dev/privacy">Privacy Policy</a></sub>
+  <sub>🛡️ AGPL-3.0 Licensed <!-- | 🌱 Proudly non-profit --> | 📜 <a href="https://nelmin.dev/privacy">Privacy Policy</a></sub>
 </p>
