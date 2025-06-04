@@ -2,7 +2,7 @@
   <h1 align="center">🔥 451.WTF</h1>
 </p>
 
-### 🌐 **Privacy-First Tools for the Modern Web**
+### 🌐 **Privacy-First Tools**
 We build open-source alternatives that respect users – lightweight by design, transparent by default, and shaped by **real-world needs**.  
 **Our philosophy:** "Privacy isn't a feature – it's the foundation." 🔒
 
