@@ -26,7 +26,7 @@ We build tools that laugh at web restrictions through **action**, not activism.
 ## 🚀 **Active Projects**
 | Project | Description | Type | Collaboration |
 |---------|-------------|------|---------------|
-| [451 Host](https://host.451.wtf/) | Privacy-first server hosting with transparent operations | Platform | — |
+| [451: Unbound](https://unbound.451.wtf/) | A Minecraft-like Game where nothing can stop you | Game | — |
 | *More coming soon* | *Projects launch when they meet our standards, not deadlines* | — | — |
 
 ---
