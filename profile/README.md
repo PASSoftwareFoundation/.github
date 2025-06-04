@@ -51,7 +51,6 @@ Every tool serves a different audience:
 ## 📬 **Join the Conversation**
 
 [![Discord](https://img.shields.io/badge/Ask_Questions-Discord-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/u6DjWuuDcw)  
-*Replace with your actual community link*
 
 ---
 
