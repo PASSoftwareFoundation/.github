@@ -55,5 +55,5 @@ Every creation serves distinct needs:
 
 <p align="center">
   <em>"Forging censorship-resistant tools for a constrained digital world"</em><br>
-  <sub>⚖️ Mostly GPL-3.0 Licensed | 🔍 <a href="https://451.wtf/transparency">Transparency Reports</a></sub>
+  <sub>⚖️ Mostly GPL-3.0 Licensed</sub>
 </p>
