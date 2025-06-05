@@ -26,7 +26,7 @@ We create tools that bypass digital constraints through **action**, not petition
 ## 🚀 **Active Projects**
 | Project | Description | Type | Collaboration | Repository | Licensed |
 |---------|-------------|------|---------------|------------|----------|
-| [JVMgin](https://jvmgin.451.wtf/) | A Game Engine for the JVM | Game Engine | — | [Click Here](https://github.com/451wtf/JVMgin) | GPL v3.0 |
+<!-- | [JVMgin](https://jvmgin.451.wtf/) | A Game Engine for the JVM | Game Engine | — | [Click Here](https://github.com/451wtf/JVMgin) | GPL v3.0 | -->
 | [451: Unbound](https://unbound.451.wtf/) | A Minecraft-like experience without artificial barriers | Game | — | — | Proprietary |
 
 ---
