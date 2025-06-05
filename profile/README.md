@@ -3,58 +3,58 @@
 </p>
 
 ### 🌐 **Privacy-First Tools**
-We build open-source alternatives that respect users – lightweight by design, transparent by default, and shaped by **real-world needs**.  
-**Our philosophy:** "Privacy isn't a feature – it's the foundation." 🔒
+Building open-source alternatives that respect autonomy – lightweight by design, transparent by default, and forged through **collective necessity**.  
+**Guiding principle:** "Privacy isn't a feature – it's the foundation." 🔒
 
 ---
 
 ## 🧭 **Core Principles**
-- **📜 GPL-3.0 Freedom**: Build and modify without restrictions (unless another license better serves a project)
-- **👁️ Zero-Sneak Engineering**: No telemetry, no hidden data pipelines
-- **⚡ Lightweight > Feature Bloat**: Optimized for purpose, not checklists
-- **🗣️ Community-Coded**: Roadmaps dictated by user needs, not internal roadmaps
+- **📜 GPL-3.0 Sovereignty**: Fork, modify, and redistribute without gatekeepers
+- **👁️ Anti-Surveillance Engineering**: Zero telemetry, zero hidden pipelines
+- **⚡ Lightweight > Bloat**: Optimized for purpose, not corporate checklists
+- **🌐 Community-Governed**: Priorities set by real needs, not internal agendas
 
 ---
 
 ## 🤔 **Why "451.WTF"?**
-Our name combines the [HTTP 451 status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451) with a domain that spells out the obvious question:  
+This collective’s identity merges the [HTTP 451 status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451) with a domain demanding answers:  
 *"Unavailable For Legal Reasons – WTF?!"*  
-We build tools that laugh at web restrictions through **action**, not activism.
+We create tools that bypass digital constraints through **action**, not petitions.
 
 ---
 
 ## 🚀 **Active Projects**
-| Project | Description | Type | Collaboration |
-|---------|-------------|------|---------------|
-<!-- | [JVMgin](https://jvmgin.451.wtf/) | A Game Engine for the JVM | Game Engine | — | -->
-| [451: Unbound](https://unbound.451.wtf/) | A Minecraft-like Game where nothing can stop you | Game | — |
-| *More coming soon* | *Projects launch when they meet our standards, not deadlines* | — | — |
+| Project | Description | Type | Collaboration | Repository | Licensed |
+|---------|-------------|------|---------------|------------|----------|
+| [JVMgin](https://jvmgin.451.wtf/) | A Game Engine for the JVM | Game Engine | — | [Click Here](https://github.com/451wtf/JVMgin) | GPL v3.0 |
+| [451: Unbound](https://unbound.451.wtf/) | A Minecraft-like experience without artificial barriers | Game | — | — | Proprietary |
+| *More brewing* | *Projects launch when ready – no deadlines, no compromises* | — | — | — | — |
 
 ---
 
 ## 💻 **Who Benefits?**
-Every tool serves a different audience:
-- **Developers**: Libraries with privacy baked into APIs
-- **Businesses**: Self-hostable platforms without data leaks
-- **Individuals**: Apps that work *for* you, not advertisers
+Every creation serves distinct needs:
+- **Builders**: Libraries with privacy embedded in architecture
+- **Self-Hosters**: Sovereign platforms without corporate backdoors
+- **Individuals**: Tools that obey *you*, not trackers
 
 ---
 
-## 🤝 **Collaborate With Us**
-- **🌱 Newbie-Friendly**: Look for `good-first-issue` tags in repositories
-- **🔧 Skill Diversity Welcome**: Docs, design, testing – code isn't everything
-- **📢 Feedback = Features**: Open discussions drive our priorities
-- **🎯 Merit-Based Recognition**: Significant contributions earn project credits
+## 🤝 **Build With Us**
+- **🌱 Pseudonym-Friendly**: Seek `good-first-issue` tags across repos
+- **🔧 All Skills Valued**: Code, docs, testing – many paths to contribute
+- **📢 Feedback Shapes Evolution**: Open discourse steers development
+- **🎯 Contribution = Cred**: Earn recognition through verifiable work
 
 ---
 
-## 📬 **Join the Conversation**
+## 📬 **Join the Collective**
 
 [![Discord](https://img.shields.io/badge/Ask_Questions-Discord-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/u6DjWuuDcw)  
 
 ---
 
 <p align="center">
-  <em>"Building transparent tools for a restricted web"</em><br>
+  <em>"Forging censorship-resistant tools for a constrained digital world"</em><br>
   <sub>⚖️ Mostly GPL-3.0 Licensed | 🔍 <a href="https://451.wtf/transparency">Transparency Reports</a></sub>
 </p>
