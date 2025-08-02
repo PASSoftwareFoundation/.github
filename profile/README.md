@@ -23,15 +23,6 @@ We operate where others can't or won't.
 
 ---
 
-## 🚀 **Active Operations**
-| Case Type | Methodology | Evidence Standard | Status |
-|----------|-------------|------------------|--------|
-| Predator Investigations | Digital forensics + behavioral analysis | Court-admissible | Ongoing |
-| Scammer Networks | Financial tracing + identity mapping | Prosecution-ready | Active |
-| Cyberbullying Cases | Threat assessment + documentation | LE-ready packages | Continuous |
-
----
-
 ## 💻 **Who We Serve**
 - **Law Enforcement**: Turnkey case files for immediate action
 - **Victims**: Justice for those without technical resources
