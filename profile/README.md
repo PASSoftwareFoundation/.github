@@ -2,49 +2,57 @@
   <h1 align="center">🔥 451.WTF</h1>
 </p>
 
-### 🌐 **Predator Exposure Unit**
-Specializing in digital investigations of online predators, scammers, and cyberbullies.  
-**Operational doctrine:** "We gather the evidence - law enforcement delivers the justice." 🔍
+### 🌐 **Privacy-First Tools**
+Building open-source alternatives that respect autonomy – lightweight by design, transparent by default, and forged through **collective necessity**.  
+**Guiding principle:** "Privacy isn't a feature – it's the foundation." 🔒
 
 ---
 
 ## 🧭 **Core Principles**
-- **📜 Full Documentation**: Every case built to evidentiary standards
-- **👁️ OSINT Specialists**: Advanced open-source intelligence techniques
-- **⚡ Law Enforcement Focus**: Evidence packages ready for prosecution
-- **🌐 Community-Sourced Intel**: Verified tips steer investigations
+- **📜 GPL-3.0 Sovereignty**: Fork, modify, and redistribute without gatekeepers
+- **👁️ Anti-Surveillance Engineering**: Zero telemetry, zero hidden pipelines
+- **⚡ Lightweight > Bloat**: Optimized for purpose, not corporate checklists
+- **🌐 Community-Governed**: Priorities set by real needs, not internal agendas
 
 ---
 
 ## 🤔 **Why "451.WTF"?**
-Named for the [HTTP 451 status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451) -  
-*"Unavailable For Legal Reasons - WTF?!"*  
-We operate where others can't or won't.
+This collective’s identity merges the [HTTP 451 status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451) with a domain demanding answers:  
+*"Unavailable For Legal Reasons – WTF?!"*  
+We create tools that bypass digital constraints through **action**, not petitions.
 
 ---
 
-## 💻 **Who We Serve**
-- **Law Enforcement**: Turnkey case files for immediate action
-- **Victims**: Justice for those without technical resources
-- **Communities**: Safer online spaces through exposure
+## 🚀 **Active Projects**
+| Project | Description | Type | Collaboration | Repository | Licensed |
+|---------|-------------|------|---------------|------------|----------|
+| [CloakOS](https://cloakos.451.wtf/) | An Privacy-focused Operating System | OS & Kernel | — | [Click Here](https://github.com/451wtf/CloakOS) | GPL v3.0 |
 
 ---
 
-## 🤝 **Contribution Protocol**
-- **🌱 Secure Reporting**: Anonymous tip system
-- **🔧 Skill-Based Roles**: Analysts, researchers, validators
-- **📢 Intelligence-Driven**: Verified data only
-- **🎯 Merit-Based Access**: Trust through verification
+## 💻 **Who Benefits?**
+Every creation serves distinct needs:
+- **Builders**: Libraries with privacy embedded in architecture
+- **Self-Hosters**: Sovereign platforms without corporate backdoors
+- **Individuals**: Tools that obey *you*, not trackers
 
 ---
 
-## 📬 **Secure Contact**
+## 🤝 **Build With Us**
+- **🌱 Pseudonym-Friendly**: Seek `good-first-issue` tags across repos
+- **🔧 All Skills Valued**: Code, docs, testing – many paths to contribute
+- **📢 Feedback Shapes Evolution**: Open discourse steers development
+- **🎯 Contribution = Cred**: Earn recognition through verifiable work
 
-[![Discord](https://img.shields.io/badge/Secure_Comms-Discord-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/u6DjWuuDcw)  
+---
+
+## 📬 **Join the Collective**
+
+[![Discord](https://img.shields.io/badge/Ask_Questions-Discord-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/u6DjWuuDcw)  
 
 ---
 
 <p align="center">
-  <em>"Exposing digital threats through actionable intelligence"</em><br>
-  <sub>⚖️ All operations conducted within legal frameworks</sub>
+  <em>"Forging censorship-resistant tools for a constrained digital world"</em><br>
+  <sub>⚖️ Mostly GPL-3.0 Licensed</sub>
 </p>
