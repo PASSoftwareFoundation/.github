@@ -2,7 +2,7 @@
   <h1 align="center">🔥 451.WTF</h1>
 </p>
 
-### 🌐 **Privacy-First Tools**
+### 🌐 **Privacy-First Software**
 Building open-source alternatives that respect autonomy – lightweight by design, transparent by default, and forged through **collective necessity**.  
 **Guiding principle:** "Privacy isn't a feature – it's the foundation." 🔒
 
