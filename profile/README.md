@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🔥 PAS Software Foundation</h1>
+  <h1 align="center">🕵️ PAS Software Foundation</h1>
 </p>
 
 ### 🌐 **Privacy-First Software**
