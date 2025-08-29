@@ -43,7 +43,7 @@ Every creation serves distinct needs:
 
 ## 📬 **Join the Collective**
 
-[![Discord](https://img.shields.io/badge/Ask_Questions-Discord-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/u6DjWuuDcw)  
+[![Discord](https://img.shields.io/badge/Ask_Questions-Discord-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/Knm3aHMmkW)  
 
 ---
 
