@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🔥 451.WTF</h1>
+  <h1 align="center">🔥 PAS Software Foundation</h1>
 </p>
 
 ### 🌐 **Privacy-First Software**
@@ -16,17 +16,12 @@ Building open-source alternatives that respect autonomy – lightweight by desig
 
 ---
 
-## 🤔 **Why "451.WTF"?**
-This collective’s identity merges the [HTTP 451 status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451) with a domain demanding answers:  
-*"Unavailable For Legal Reasons – WTF?!"*  
-We create tools that bypass digital constraints through **action**, not petitions.
-
----
-
 ## 🚀 **Active Projects**
 | Project | Description | Type | Collaboration | Repository | Licensed |
 |---------|-------------|------|---------------|------------|----------|
-| [CloakOS](https://cloakos.451.wtf/) | An Privacy-focused Operating System | OS & Kernel | — | [Click Here](https://github.com/451wtf/CloakOS) | GPL v3.0 |
+| [Ra](https://pass.foundation/ra) | An Low-Level Language with High-Level Syntax | Programming Language | — | [Click Here](https://github.com/PASSoftwareFoundation/Ra) | GPL v3.0 |
+| [Silhouette](https://pass.foundation/silhouette) | The Kernel for Cloak | Kernel | — | [Click Here](https://github.com/PASSoftwareFoundation/Silhouette) | GPL v3.0 |
+| [CloakOS](https://pass.foundation/cloakos) | An Privacy-focused Operating System | OS | — | [Click Here](https://github.com/PASSoftwareFoundation/Cloak) | GPL v3.0 |
 
 ---
 
