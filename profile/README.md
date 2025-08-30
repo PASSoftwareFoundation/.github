@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🕵️ PAS Software Foundation</h1>
+  <h1 align="center">🕵️ Reprivatize</h1>
 </p>
 
 ### 🌐 **Privacy-First Software**
@@ -19,9 +19,9 @@ Building open-source alternatives that respect autonomy – lightweight by desig
 ## 🚀 **Active Projects**
 | Project | Description | Type | Collaboration | Repository | Licensed |
 |---------|-------------|------|---------------|------------|----------|
-| [Ra](https://pass.foundation/ra) | An Low-Level Language with High-Level Syntax | Programming Language | — | [Click Here](https://github.com/PASSoftwareFoundation/Ra) | GPL v3.0 |
-| [Silhouette](https://pass.foundation/silhouette) | The Kernel for Cloak | Kernel | — | [Click Here](https://github.com/PASSoftwareFoundation/Silhouette) | GPL v3.0 |
-| [CloakOS](https://pass.foundation/cloakos) | An Privacy-focused Operating System | OS | — | [Click Here](https://github.com/PASSoftwareFoundation/Cloak) | GPL v3.0 |
+| [Ra](https://reprivatize.com/ra) | An Low-Level Language with High-Level Syntax | Programming Language | — | [Click Here](https://github.com/PASSoftwareFoundation/Ra) | GPL v3.0 |
+| [Silhouette](https://reprivatize.com/silhouette) | The Kernel for Cloak | Kernel | — | [Click Here](https://github.com/PASSoftwareFoundation/Silhouette) | GPL v3.0 |
+| [CloakOS](https://reprivatize.com/cloakos) | An Privacy-focused Operating System | OS | — | [Click Here](https://github.com/PASSoftwareFoundation/Cloak) | GPL v3.0 |
 
 ---
 
