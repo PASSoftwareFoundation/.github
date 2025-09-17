@@ -19,9 +19,7 @@ Building open-source alternatives that respect autonomy – lightweight by desig
 ## 🚀 **Active Projects**
 | Project | Description | Type | Collaboration | Repository | Licensed |
 |---------|-------------|------|---------------|------------|----------|
-| [Ra](https://reprivatize.me/ra) | An Low-Level Language with High-Level Syntax | Programming Language | — | [Click Here](https://github.com/Reprivatize/Ra) | GPL v3.0 |
-| [Silhouette](https://reprivatize.me/silhouette) | The Kernel for Cloak | Kernel | — | [Click Here](https://github.com/Reprivatize/Silhouette) | GPL v3.0 |
-| [CloakOS](https://reprivatize.me/cloakos) | An Privacy-focused Operating System | OS | — | [Click Here](https://github.com/Reprivatize/Cloak) | GPL v3.0 |
+| None | -/- | -/- | -/- | -/- | -/- |
 
 ---
 
